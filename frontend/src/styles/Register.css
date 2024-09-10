@@ -1,0 +1,17 @@
+/* Register.css */
+
+.switch-link {
+    margin-top: 20px;
+    font-size: 16px;
+    text-align: center;
+    color: #333;
+}
+
+.switch-link a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+.switch-link a:hover {
+    text-decoration: underline;
+}
